@@ -1,0 +1,73 @@
+{
+  "status": "RUN_OK",
+  "generated_utc": "2026-10-09T04:01:25.761695+00:00",
+  "symbol": "ETHUSDT",
+  "latest_closed_candle_utc": "2026-10-09T03:00:00+00:00",
+  "latest_close_usdt": 2493.69,
+  "new_fills": 0,
+  "benchmark_buy_hold_usdt": 10016.1065,
+  "benchmark_return_pct": 0.1611,
+  "portfolios": [
+    {
+      "strategy": "A2 Adaptive Grid",
+      "cash_usdt": 10000.0,
+      "eth": 0.0,
+      "nav_usdt": 10000.0,
+      "pnl_usdt": 0.0,
+      "fills_total": 0,
+      "return_pct": 0.0,
+      "drawdown_pct": 0.0
+    },
+    {
+      "strategy": "B Fixed Grid",
+      "cash_usdt": 10000.0,
+      "eth": 0.0,
+      "nav_usdt": 10000.0,
+      "pnl_usdt": 0.0,
+      "fills_total": 0,
+      "return_pct": 0.0,
+      "drawdown_pct": 0.0
+    },
+    {
+      "strategy": "C2 Regime Grid",
+      "cash_usdt": 10000.0,
+      "eth": 0.0,
+      "nav_usdt": 10000.0,
+      "pnl_usdt": 0.0,
+      "fills_total": 0,
+      "return_pct": 0.0,
+      "drawdown_pct": 0.0
+    },
+    {
+      "strategy": "D Trend",
+      "cash_usdt": 10000.0,
+      "eth": 0.0,
+      "nav_usdt": 10000.0,
+      "pnl_usdt": 0.0,
+      "fills_total": 0,
+      "return_pct": 0.0,
+      "drawdown_pct": 0.0
+    },
+    {
+      "strategy": "E Mean Reversion",
+      "cash_usdt": 10000.0,
+      "eth": 0.0,
+      "nav_usdt": 10000.0,
+      "pnl_usdt": 0.0,
+      "fills_total": 0,
+      "return_pct": 0.0,
+      "drawdown_pct": 0.0
+    },
+    {
+      "strategy": "F Switching",
+      "cash_usdt": 10000.0,
+      "eth": 0.0,
+      "nav_usdt": 10000.0,
+      "pnl_usdt": 0.0,
+      "fills_total": 0,
+      "return_pct": 0.0,
+      "drawdown_pct": 0.0
+    }
+  ],
+  "note": "PAPER ONLY. Strategy signals are simplified research proxies, not full blueprint. Next-bar open execution. No real orders."
+}
