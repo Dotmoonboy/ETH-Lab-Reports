@@ -1,12 +1,12 @@
 {
   "status": "RUN_OK",
-  "generated_utc": "2026-10-10T05:40:50.234038+00:00",
+  "generated_utc": "2026-10-10T12:22:29.930912+00:00",
   "symbol": "ETHUSDT",
-  "latest_closed_candle_utc": "2026-10-10T04:00:00+00:00",
-  "latest_close_usdt": 2494.96,
+  "latest_closed_candle_utc": "2026-10-10T11:00:00+00:00",
+  "latest_close_usdt": 2497.42,
   "new_fills": 0,
-  "benchmark_buy_hold_usdt": 10021.2075,
-  "benchmark_return_pct": 0.2121,
+  "benchmark_buy_hold_usdt": 10031.0883,
+  "benchmark_return_pct": 0.3109,
   "portfolios": [
     {
       "strategy": "A2 Adaptive Grid",
