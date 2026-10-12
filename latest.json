@@ -1,41 +1,51 @@
 {
   "status": "RUN_OK",
-  "generated_utc": "2026-10-12T10:38:10.294470+00:00",
+  "generated_utc": "2026-10-12T20:14:22.285294+00:00",
   "symbol": "ETHUSDT",
-  "latest_closed_candle_utc": "2026-10-12T09:00:00+00:00",
-  "latest_close_usdt": 2560.58,
-  "new_fills": 0,
-  "benchmark_buy_hold_usdt": 10284.7756,
-  "benchmark_return_pct": 2.8478,
+  "latest_closed_candle_utc": "2026-10-12T19:00:00+00:00",
+  "latest_close_usdt": 2521.59,
+  "new_fills": 19,
+  "benchmark_buy_hold_usdt": 10128.1691,
+  "benchmark_return_pct": 1.2817,
   "portfolios": [
     {
       "strategy": "C2 Regime Grid",
-      "cash_usdt": 8200.0,
-      "eth": 0.718157043,
-      "nav_usdt": 10038.8986,
-      "pnl_usdt": 38.8986,
-      "fills_total": 9,
-      "return_pct": 0.389,
-      "drawdown_pct": 0.0
+      "cash_usdt": 6600.0,
+      "eth": 1.350418501,
+      "nav_usdt": 10005.2018,
+      "pnl_usdt": 5.2018,
+      "fills_total": 17,
+      "return_pct": 0.052,
+      "drawdown_pct": -0.3357
     },
     {
       "strategy": "F Switching",
-      "cash_usdt": 8200.0,
-      "eth": 0.718157043,
-      "nav_usdt": 10038.8986,
-      "pnl_usdt": 38.8986,
-      "fills_total": 9,
-      "return_pct": 0.389,
-      "drawdown_pct": 0.0
+      "cash_usdt": 6600.0,
+      "eth": 1.350418501,
+      "nav_usdt": 10005.2018,
+      "pnl_usdt": 5.2018,
+      "fills_total": 17,
+      "return_pct": 0.052,
+      "drawdown_pct": -0.3357
     },
     {
       "strategy": "D Trend",
       "cash_usdt": 9400.0,
       "eth": 0.238935096,
-      "nav_usdt": 10011.8124,
-      "pnl_usdt": 11.8124,
+      "nav_usdt": 10002.4963,
+      "pnl_usdt": 2.4963,
       "fills_total": 3,
-      "return_pct": 0.1181,
+      "return_pct": 0.025,
+      "drawdown_pct": -0.0931
+    },
+    {
+      "strategy": "E Mean Reversion",
+      "cash_usdt": 9400.0,
+      "eth": 0.238049721,
+      "nav_usdt": 10000.2638,
+      "pnl_usdt": 0.2638,
+      "fills_total": 3,
+      "return_pct": 0.0026,
       "drawdown_pct": 0.0
     },
     {
@@ -50,16 +60,6 @@
     },
     {
       "strategy": "B Fixed Grid",
-      "cash_usdt": 10000.0,
-      "eth": 0.0,
-      "nav_usdt": 10000.0,
-      "pnl_usdt": 0.0,
-      "fills_total": 0,
-      "return_pct": 0.0,
-      "drawdown_pct": 0.0
-    },
-    {
-      "strategy": "E Mean Reversion",
       "cash_usdt": 10000.0,
       "eth": 0.0,
       "nav_usdt": 10000.0,
