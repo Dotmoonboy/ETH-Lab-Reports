@@ -1,22 +1,32 @@
 {
   "status": "RUN_OK",
-  "generated_utc": "2026-10-21T10:01:38.230116+00:00",
+  "generated_utc": "2026-10-21T15:06:09.623328+00:00",
   "symbol": "ETHUSDT",
-  "latest_closed_candle_utc": "2026-10-21T09:00:00+00:00",
-  "latest_close_usdt": 2455.92,
-  "new_fills": 2,
-  "benchmark_buy_hold_usdt": 9864.4002,
-  "benchmark_return_pct": -1.356,
+  "latest_closed_candle_utc": "2026-10-21T14:00:00+00:00",
+  "latest_close_usdt": 2496.94,
+  "new_fills": 0,
+  "benchmark_buy_hold_usdt": 10029.1604,
+  "benchmark_return_pct": 0.2916,
   "portfolios": [
     {
       "strategy": "A2 Adaptive Grid",
       "cash_usdt": 5598.4,
       "eth": 1.836993302,
-      "nav_usdt": 10109.9086,
-      "pnl_usdt": 109.9086,
+      "nav_usdt": 10185.2621,
+      "pnl_usdt": 185.2621,
       "fills_total": 38,
-      "return_pct": 1.0991,
-      "drawdown_pct": -0.0007
+      "return_pct": 1.8526,
+      "drawdown_pct": 0.0
+    },
+    {
+      "strategy": "F Switching",
+      "cash_usdt": 3500.0,
+      "eth": 2.658586673,
+      "nav_usdt": 10138.3314,
+      "pnl_usdt": 138.3314,
+      "fills_total": 59,
+      "return_pct": 1.3833,
+      "drawdown_pct": 0.0
     },
     {
       "strategy": "E Mean Reversion",
@@ -32,41 +42,31 @@
       "strategy": "B Fixed Grid",
       "cash_usdt": 8999.2,
       "eth": 0.420919417,
-      "nav_usdt": 10032.9444,
-      "pnl_usdt": 32.9444,
+      "nav_usdt": 10050.2105,
+      "pnl_usdt": 50.2105,
       "fills_total": 13,
-      "return_pct": 0.3294,
-      "drawdown_pct": -0.0002
-    },
-    {
-      "strategy": "F Switching",
-      "cash_usdt": 3500.0,
-      "eth": 2.658586673,
-      "nav_usdt": 10029.2762,
-      "pnl_usdt": 29.2762,
-      "fills_total": 59,
-      "return_pct": 0.2928,
-      "drawdown_pct": -0.0959
+      "return_pct": 0.5021,
+      "drawdown_pct": 0.0
     },
     {
       "strategy": "D Trend",
       "cash_usdt": 9602.9237,
       "eth": 0.16513705,
-      "nav_usdt": 10008.4871,
-      "pnl_usdt": 8.4871,
+      "nav_usdt": 10015.261,
+      "pnl_usdt": 15.261,
       "fills_total": 11,
-      "return_pct": 0.0849,
-      "drawdown_pct": -0.0332
+      "return_pct": 0.1526,
+      "drawdown_pct": 0.0
     },
     {
       "strategy": "C2 Regime Grid",
       "cash_usdt": 5832.3972,
       "eth": 1.670635416,
-      "nav_usdt": 9935.3441,
-      "pnl_usdt": -64.6559,
+      "nav_usdt": 10003.8736,
+      "pnl_usdt": 3.8736,
       "fills_total": 32,
-      "return_pct": -0.6466,
-      "drawdown_pct": -1.0315
+      "return_pct": 0.0387,
+      "drawdown_pct": -0.3489
     }
   ],
   "note": "PAPER ONLY. Strategy signals are simplified research proxies, not full blueprint. Next-bar open execution. No real orders."
