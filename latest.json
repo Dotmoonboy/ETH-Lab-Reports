@@ -1,22 +1,22 @@
 {
   "status": "RUN_OK",
-  "generated_utc": "2026-11-08T23:38:39.392969+00:00",
+  "generated_utc": "2026-11-09T06:05:15.551323+00:00",
   "symbol": "ETHUSDT",
-  "latest_closed_candle_utc": "2026-11-08T22:00:00+00:00",
+  "latest_closed_candle_utc": "2026-11-09T05:00:00+00:00",
   "latest_close_usdt": 2128.88,
-  "new_fills": 3,
+  "new_fills": 2,
   "benchmark_buy_hold_usdt": 8550.8178,
   "benchmark_return_pct": -14.4918,
   "portfolios": [
     {
       "strategy": "E Mean Reversion",
-      "cash_usdt": 7509.7562,
-      "eth": 1.147848199,
-      "nav_usdt": 9953.3873,
-      "pnl_usdt": -46.6127,
-      "fills_total": 152,
-      "return_pct": -0.4661,
-      "drawdown_pct": -1.5468
+      "cash_usdt": 7109.7562,
+      "eth": 1.335521966,
+      "nav_usdt": 9952.9222,
+      "pnl_usdt": -47.0778,
+      "fills_total": 154,
+      "return_pct": -0.4708,
+      "drawdown_pct": -1.5514
     },
     {
       "strategy": "D Trend",
